@@ -69,6 +69,13 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 ```
 
+### Code blocks
+```
+  <?php
+  // awesome code example
+  ?>
+```
+
 ## Links
 
 ### Link without link text
@@ -100,13 +107,6 @@ or
 (link: http://wikipedia.org text: Wikipedia class: mylink)
 ```
 
-
-## Code blocks
-```
-  <?php
-  // awesome code example
-  ?>
-```
 
 ## Email Addresses
 ### Email without link text
