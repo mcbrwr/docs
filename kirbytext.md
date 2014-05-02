@@ -1,6 +1,11 @@
 # Kirbytext Cheat Sheet
 
-## Headings
+Kirbytext is an extended version of [Markdown](http://daringfireball.net/projects/markdown/). Read more about it [here](http://getkirby.com/docs/formatting-text)!
+
+
+## Basic formats
+
+### Headings
 
 ```
 # Heading 1
@@ -16,7 +21,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 ```
 
-## Line breaks & paragraphs
+### Line breaks & paragraphs
 ```
 My first line of lorem ipsum dolor text.
 My second line of lorem ipsum dolor text.
@@ -24,38 +29,38 @@ My second line of lorem ipsum dolor text.
 Another paragraph…
 ```
 
-## Bold text
+### Bold text
 ```
 **Your bold lorem ipsum dolor text**
 ```
 
-## Italic text
+### Italic text
 ```
 _Your italic lorem ipsum dolor text_
 ```
 
-## Unordered list
+### Unordered list
 ```
 - Lorem ipsum dolor sit amet a
 - Lorem ipsum dolor sit amet b
 - Lorem ipsum dolor sit amet c
 ```
 
-## Ordered list
+### Ordered list
 ```
 1. Lorem ipsum dolor sit amet a
 2. Lorem ipsum dolor sit amet b
 3. Lorem ipsum dolor sit amet c
 ```
 
-## Quotes
+### Quotes
 ```
 > Design is not just what it looks like and feels like.
 > Design is how it works.
 – Steve Jobs
 ```
 
-## Horizontal rules
+### Horizontal rules
 ```
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
