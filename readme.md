@@ -13,3 +13,11 @@ In this repository we are going to collect all docs for Kirby 2. It's a rough fi
 - [New Multilanguage Setup](multilang.md)
 - [Using Kirby's core engine in your own scripts](standalone-core-engine.md)
 
+## Todo
+
+- Sending emails with Kirby
+- The thumb engine
+- The new database class
+- Building panel fields
+- The user system
+- ...
