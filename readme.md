@@ -20,4 +20,5 @@ In this repository we are going to collect all docs for Kirby 2. It's a rough fi
 - The new database class
 - Building panel fields
 - The user system
+- Migrating from Kirby 1
 - ...
