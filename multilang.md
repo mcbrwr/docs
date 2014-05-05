@@ -9,7 +9,6 @@ The setup for multi-language sites has changed a bit, so make sure to update you
 ```php
 
 c::set('languages', array(
-  'languages' => array(
     'en' => array(
       'name'    => 'English',
       'code'    => 'en',
@@ -21,7 +20,6 @@ c::set('languages', array(
       'code'    => 'de',
       'locale'  => 'de_DE'
     ),
-  )
 ));
 
 ```
