@@ -1,4 +1,4 @@
-# Kirby 2
+# What's new
 
 ## Toolkit
 
