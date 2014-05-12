@@ -140,6 +140,11 @@ content folder and access it from the $site object with $site->files() etc.
 - $page->delete()
 - $page->date($format, $field) 
 
+### Modified page methods
+
+- $page->diruri() now returns only the path starting within the content folder
+- $page->not() does now accept entire page objects
+
 ### New file methods
 
 - $file->dimensions()
