@@ -188,6 +188,14 @@ content folder and access it from the $site object with $site->files() etc.
 - A new text editor for longer textfields, based on CodeMirror
 - Easy installation without copying or moving files
 
+
+### Changes
+
+File fields in blueprints moved to a new location: 
+https://github.com/getkirby/panel/issues/65#issuecomment-42931709
+
+### Screenshots
+
 ![Kirby Panel](http://f.cl.ly/items/330p313K2H231Q280v2B/panel.png)
 
 ![Kirby Panel](http://f.cl.ly/items/1h1E1a090q2V2a3d1q19/panel-files.png)
