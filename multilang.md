@@ -42,7 +42,7 @@ Here's an example for a simple language switch:
 
 <select onchange="window.location.href = this.value">
   <?php foreach($site->languages() as $lang): ?>
-  <option value="<?php echo $lang->url() ?><?php e($lang == $site->language(), ' selected') ?>>
+  <option value="<?php echo $lang->url() ?><?php e($lang == $site->language(), ' selected') ?>">
     <?php echo html($lang->name()) ?>
   </option>
   <?php endforeach ?>
